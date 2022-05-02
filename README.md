@@ -9,8 +9,11 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-- <b>Python</b>
+<h2>👨‍💻 Certifications:</h2>
+  - CompTIA Security+
 
+
+<h2>📺 Popular YouTube Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
