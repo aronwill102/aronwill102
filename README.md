@@ -1,4 +1,13 @@
-<h1>Hi, I'm Aaron! <br/> <a href="https://www.linkedin.com/in/aaron-williams102/">Cybersecurity Professional</a></h1>
+### Hi there 👋, my name is Aaron
+#### I am IT/Cyber Security Professional 
+![I am IT/Cyber Security Professional ](https://github.com/aronwill102/aronwill102/blob/main/banner.png)
+
+I'm currently making the transition from a Senior Electronic Systems Specialist into the Cybersecurity field. I Am Navy Veteran with an active Secret Security Clearance leveraging over 9 years of experience of working skillfully in high-security environments and working under pressure while meeting strict safety standards
+
+Skills: MS, MAC, Linux, Azure, Bash, Power Shell, Active Directory
+
+- 🔭 I’m currently working on this page. 
+
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
