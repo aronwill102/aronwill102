@@ -12,22 +12,7 @@ Skills: MS, MAC, Linux, Azure, Bash, Power Shell, Active Directory
 <h2>👨‍💻Projects:</h2>
 <!DOCTYPE HTML>
 <html lang="en">
-<head>
- <style>
-  a:link,a:visited {
-   color: Green;
-   background-color: #FFFFFF;
-   text-decoration: underline;
-   target-new: tab;
-  }
-  a:hover {
-   color: #0000FF;
-   background-color: #FFFFC0;
-   text-decoration: underline;
-   target-new: none;
-  }
- </style>
-</head>
+
 <body>
  <!-- Text link tag - by www.rapidtables.com -->
  <a href="https://github.com/aronwill102/Python/tree/main/Python%20Projects">🐍Python Projects</a>
