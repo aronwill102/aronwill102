@@ -18,6 +18,7 @@ Skills: MS, MAC, Linux, Azure, Bash, Power Shell, Active Directory
  <a href="https://github.com/aronwill102/Python/tree/main/Python%20Projects">🐍Python Projects</a>
 </body>
 
+ <br>
 
 </head>
 <body>
