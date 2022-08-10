@@ -15,6 +15,7 @@ Skills: MS, MAC, Linux, Azure, Bash, Power Shell, Active Directory
 
 <h2>👨‍💻 Certifications:</h2>
   - CompTIA Security+
+  - CompTIA CySA+ (December 22)
 
 
 <h2>📺 Popular YouTube Videos</h2>
