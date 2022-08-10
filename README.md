@@ -9,7 +9,7 @@ Skills: MS, MAC, Linux, Azure, Bash, Power Shell, Active Directory
 - 🔭 I’m currently working on this page. 
 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 
 
