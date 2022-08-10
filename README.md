@@ -17,7 +17,15 @@ Skills: MS, MAC, Linux, Azure, Bash, Power Shell, Active Directory
  <!-- Text link tag - by www.rapidtables.com -->
  <a href="https://github.com/aronwill102/Python/tree/main/Python%20Projects">🐍Python Projects</a>
 </body>
+
+
+</head>
+<body>
+ <!-- Text link tag - by www.rapidtables.com -->
+ <a href="https://github.com/aronwill102/BashScripts/tree/main/Scripts">🖥️ Bash Scripts</a>
+</body>
 </html>
+
 
 
 <h2>👨‍💻 Certifications:</h2>
