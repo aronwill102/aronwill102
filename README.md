@@ -8,6 +8,19 @@
 ⚡ Fun fact: I rebuilt and secured an entire office network before most people finished their coffee. ☕
 
 
+## 🎓 Education & Certifications:
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt%20Trained-2E7D32?style=for-the-badge&logoColor=white)
+![Lean Six Sigma Yellow Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-F9A825?style=for-the-badge&logoColor=white)
+![OSHA 30](https://img.shields.io/badge/OSHA-30%20Hour-0057B8?style=for-the-badge&logoColor=white)
+
+🎓 M.A.S. Cybersecurity — Old Dominion University *(2026)*<br>
+🎓 B.A.S. Cybersecurity — Old Dominion University *(2025)*<br>
+🎓 A.A.S. Cybersecurity — Tidewater Community College *(2023)*<br>
+📄 Certificate, Information Technology — Tidewater Community College *(2023)*<br>
+📄 Career Studies Certificate, Cybersecurity — Tidewater Community College *(2023)*
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-williams102) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sir.aron.michael) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AuthNAndOut) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://aronwillcs.com)
 
