@@ -1,7 +1,6 @@
 <h1 align="center">AARON M. WILLIAMS</h1>
 <p align="center">
-  Hampton, VA &nbsp;|&nbsp; (202) 999-0354 &nbsp;|&nbsp;
-  <a href="mailto:aron.will102@gmail.com">aron.will102@gmail.com</a> &nbsp;|&nbsp;
+  Hampton, VA &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/aaron-williams102">linkedin.com/in/aaron-williams102</a> &nbsp;|&nbsp;
   <a href="https://aronwillcs.com">aronwillcs.com</a>
 </p>
