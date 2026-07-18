@@ -15,9 +15,9 @@
 ![Lean Six Sigma Yellow Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-F9A825?style=for-the-badge&logoColor=white)
 ![OSHA 30](https://img.shields.io/badge/OSHA-30%20Hour-0057B8?style=for-the-badge&logoColor=white)
 
-🎓 M.A.S. Cybersecurity — Old Dominion University *(2026)*<br>
-🎓 B.A.S. Cybersecurity — Old Dominion University *(2025)*<br>
-🎓 A.A.S. Cybersecurity — Tidewater Community College *(2023)*<br>
+🎓 MS Cybersecurity — Old Dominion University *(2026)*<br>
+🎓 BS Cybersecurity — Old Dominion University *(2025)*<br>
+🎓 AS Cybersecurity — Tidewater Community College *(2023)*<br>
 📄 Certificate, Information Technology — Tidewater Community College *(2023)*<br>
 📄 Career Studies Certificate, Cybersecurity — Tidewater Community College *(2023)*
 
